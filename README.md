@@ -11,7 +11,7 @@ para poder utilizar o sql in memory
 ## Frameworks aplicadas no projeto
 
 
-<p>**Swashbuckle.AspNetCore** - utilizei ela para poder implementar a documentação da API.</p>
+<p><b>Swashbuckle.AspNetCore<b> - utilizei ela para poder implementar a documentação da API.</p>
 <p>**NLog.Config** - utilizei ela para poder implementar o registo de logs em files na API.</p>
 <p>**Serilog.AspNetCore** - utilizei ela para poder implementar logs na consola da API.</p>
 <p>**AutoMapper** - utilizei ela para poder ter o parse dos meus objectos de entidade de base de dados para um outro objecto com menos informações.</p>
