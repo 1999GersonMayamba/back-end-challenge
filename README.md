@@ -21,19 +21,19 @@ para poder utilizar o sql in memory
 
 
 ## Experiência com o projeto 
-    # Teóricamente tive de indentificar todas as entidades envolvidas no problema, como foi descrito no readme do challenge, Autor, Genero, e posteriomente identificar quais informações relevantes compunha cada uma delas, tenho reunido tudo isso, passei para a implementação.
-    # Na parte pratica não tive, tive implementar alguns requistos que não foi pedido no challange mas que eu achei muito importante, como swagger para facilitar os teste e a compressão da API.
+   Teóricamente tive de indentificar todas as entidades envolvidas no problema, como foi descrito no readme do challenge, Autor, Genero, e posteriomente identificar quais informações relevantes compunha cada uma delas, tenho reunido tudo isso, passei para a implementação.
+   Na parte pratica não tive, tive implementar alguns requistos que não foi pedido no challange mas que eu achei muito importante, como swagger para facilitar os teste e a compressão da API.
 
 ## Futuro
 
 Melhorias para o projecto são muitas, basicamente iria implementar autenticação e autorização na API, acrescentaria mais feature nela, como:
-# Filtro de livros por categoria ou autor.
-# Paginação no retoro de livros, uma vez que poderemos ter muitos livros em nossa aplicação.
-# Acrescentaria mais campos para as entidades para podermos ter mais informações, como data da publicação do livro, Link da capa do livro...
-# Mais controle nos livros,  entradas e saidas de livros.
-# Implementar rede de fornecedores de livros 
-# Relarório, para se ter uma ideia geral de andam as coisas.
-# Possibilidade de vendas de livros online.
+**Filtro de livros por categoria ou autor.
+**Paginação no retoro de livros, uma vez que poderemos ter muitos livros em nossa aplicação.
+**Acrescentaria mais campos para as entidades para podermos ter mais informações, como data da publicação do livro, Link da capa do livro...
+**Mais controle nos livros,  entradas e saidas de livros.
+**Implementar rede de fornecedores de livros 
+**Relarório, para se ter uma ideia geral de andam as coisas.
+**Possibilidade de vendas de livros online.
 
 
 
