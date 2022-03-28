@@ -5,7 +5,7 @@ Web API RESTful em Asp.NET Core para gestão de livros
 ## Comandos EF:
 * update-database -Context ApplicationDbContext (Para gerar a base de dados com toda estrutura)
 
-Ou pode alterar o valor da key **[UseInMemoryDatabase]** para true no file  **appsettings.json**
+Ou pode alterar o valor da key **[UseInMemoryDatabase]** para **true** no file  **appsettings.json**
 para poder utilizar o sql in memory
 
 ## Frameworks aplicadas no projeto
