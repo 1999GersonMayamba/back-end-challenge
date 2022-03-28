@@ -27,13 +27,13 @@ para poder utilizar o sql in memory
 ## Futuro
 
 Melhorias para o projecto são muitas, basicamente iria implementar autenticação e autorização na API, acrescentaria mais feature nela, como:
-**Filtro de livros por categoria ou autor.**
-**Paginação no retoro de livros, uma vez que poderemos ter muitos livros em nossa aplicação.**
-**Acrescentaria mais campos para as entidades para podermos ter mais informações, como data da publicação do livro, Link da capa do livro...**
-**Mais controle nos livros,  entradas e saidas de livros.**
-**Implementar rede de fornecedores de livros.**
-**Relarório, para se ter uma ideia geral de andam as coisas.**
-**Possibilidade de vendas de livros online.**
+<p><b>Filtro de livros por categoria ou autor.</b></p>
+<p><b>Paginação no retoro de livros, uma vez que poderemos ter muitos livros em nossa aplicação.</b></p>
+<p><b>Acrescentaria mais campos para as entidades para podermos ter mais informações, como data da publicação do livro, Link da capa do livro...</b></p>
+<p><b>Mais controle nos livros,  entradas e saidas de livros.</b></p>
+<p><b>Implementar rede de fornecedores de livros.</b></p>
+<p><b>Relarório, para se ter uma ideia geral de andam as coisas.</b></p>
+<p><b>Possibilidade de vendas de livros online.</b></p>
 
 
 
