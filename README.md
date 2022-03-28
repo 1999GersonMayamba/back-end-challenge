@@ -11,11 +11,11 @@ para poder utilizar o sql in memory
 ## Frameworks aplicadas no projeto
 
 
-**Swashbuckle.AspNetCore** - utilizei ela para poder implementar a documentação da API.
-**NLog.Config** - utilizei ela para poder implementar o registo de logs em files na API.
-**Serilog.AspNetCore** - utilizei ela para poder implementar logs na consola da API.
-**AutoMapper** - utilizei ela para poder ter o parse dos meus objectos de entidade de base de dados para um outro objecto com menos informações.
-**Microsoft.EntityFrameworkCore.SqlServer/Microsoft.AspNetCore.Identity.EntityFrameworkCore/Microsoft.VisualStudio.Web.CodeGeneration.Design/Microsoft.EntityFrameworkCore.Tools** - utilizei como a ORM da minha API, para poder ter uma abstração com o banco.
+<p>**Swashbuckle.AspNetCore** - utilizei ela para poder implementar a documentação da API.</p>
+<p>**NLog.Config** - utilizei ela para poder implementar o registo de logs em files na API.</p>
+<p>**Serilog.AspNetCore** - utilizei ela para poder implementar logs na consola da API.</p>
+<p>**AutoMapper** - utilizei ela para poder ter o parse dos meus objectos de entidade de base de dados para um outro objecto com menos informações.</p>
+<p> **Microsoft.EntityFrameworkCore.SqlServer/Microsoft.AspNetCore.Identity.EntityFrameworkCore/Microsoft.VisualStudio.Web.CodeGeneration.Design/Microsoft.EntityFrameworkCore.Tools** - utilizei como a ORM da minha API, para poder ter uma abstração com o banco.</p>
 
 
 
