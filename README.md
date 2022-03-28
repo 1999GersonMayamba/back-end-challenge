@@ -21,8 +21,8 @@ para poder utilizar o sql in memory
 
 
 ## Experiência com o projeto 
-   Teóricamente tive de indentificar todas as entidades envolvidas no problema, como foi descrito no readme do challenge, Autor, Genero, e posteriomente identificar quais informações relevantes compunha cada uma delas, tenho reunido tudo isso, passei para a implementação.
-   Na parte pratica não tive, tive implementar alguns requistos que não foi pedido no challange mas que eu achei muito importante, como swagger para facilitar os teste e a compressão da API.
+   <p>Teóricamente tive de indentificar todas as entidades envolvidas no problema, como foi descrito no readme do challenge, Autor, Genero, e posteriomente identificar quais informações relevantes compunha cada uma delas, tenho reunido tudo isso, passei para a implementação.</p>
+   <p>Na parte pratica não tive, tive implementar alguns requistos que não foi pedido no challange mas que eu achei muito importante, como swagger para facilitar os teste e a compressão da API.</p>
 
 ## Futuro
 
